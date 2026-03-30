@@ -1,0 +1,23 @@
+# 가중통제
+
+# IMG2IMG
+![image](https://raw.githubusercontent.com/parksarang04/AI_Project_2026_01_3B/4f36631d85e54854ded4d2b9837f4b128d3757d2/Image2image/00001-2788158923.png)
+
+> masterpiece,[ CG_game_cg | cyberpunk \(series\), ] 1gilr
+Negative prompt: nsfw
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 2633499688, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+
+> masterpiece,[Brad Pitt : Billy Bob Thornton : amount]
+Negative prompt: nsfw
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 1602868678, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+
+> masterpiece,[Fantasy | Dieselpunk] 1gilr
+Negative prompt: nsfw
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 1726686004, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+
+> masterpiece,[nine-taiied_fox;fairy wings:0.5]
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 1677953230, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+
+> masterpiece,[서강준 : 김고은 : amount]
+Negative prompt: nsfw
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 3975233630, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
