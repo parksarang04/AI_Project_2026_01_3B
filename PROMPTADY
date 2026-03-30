@@ -1,23 +1,28 @@
 # 가중통제
 
 # IMG2IMG
-![image](https://raw.githubusercontent.com/parksarang04/AI_Project_2026_01_3B/4f36631d85e54854ded4d2b9837f4b128d3757d2/Image2image/00001-2788158923.png)
+![image](https://raw.githubusercontent.com/parksarang04/AI_Project_2026_01_3B/cc9cc6319c8e27a704968ca68f9f549efd735165/Image2image/00011-1677953230.png)
 
 > masterpiece,[ CG_game_cg | cyberpunk \(series\), ] 1gilr
 Negative prompt: nsfw
 Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 2633499688, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+![image](https://raw.githubusercontent.com/parksarang04/AI_Project_2026_01_3B/cc9cc6319c8e27a704968ca68f9f549efd735165/Image2image/00018-1612306545.png)
 
 > masterpiece,[Brad Pitt : Billy Bob Thornton : amount]
 Negative prompt: nsfw
 Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 1602868678, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+![image](https://raw.githubusercontent.com/parksarang04/AI_Project_2026_01_3B/cc9cc6319c8e27a704968ca68f9f549efd735165/Image2image/00020-1602868678.png)
 
 > masterpiece,[Fantasy | Dieselpunk] 1gilr
 Negative prompt: nsfw
 Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 1726686004, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+![image](https://raw.githubusercontent.com/parksarang04/AI_Project_2026_01_3B/cc9cc6319c8e27a704968ca68f9f549efd735165/Image2image/00021-1726686004.png)
 
 > masterpiece,[nine-taiied_fox;fairy wings:0.5]
 Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 1677953230, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+![image](https://raw.githubusercontent.com/parksarang04/AI_Project_2026_01_3B/cc9cc6319c8e27a704968ca68f9f549efd735165/Image2image/00020-1602868678.png)
 
 > masterpiece,[서강준 : 김고은 : amount]
-Negative prompt: nsfw
-Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 3975233630, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+masterpiece,[nine-tailed_fox : fairy wings : 0.5]
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 7, Seed: 3350542002, Size: 512x512, Model hash: a5f58eb1c3, Model: waiIllustriousSDXL_v160, Version: v1.10.1
+![image](https://github.com/parksarang04/AI_Project_2026_01_3B/blob/main/Image2image/00017-3350542002.png?raw=true)
